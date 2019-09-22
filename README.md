@@ -9,3 +9,11 @@ I created this app using 5 different Swift files. ViewController.swift contains 
 # Storyboard Design
 
 I decided to use a storyboard to design my app because that is what I am most familiar with. In my storyboard, I used a TableViewController as the main screen on my app because I liked how it allowed for automatic scrolling and layed out the different dining options nicely and similarly to how they are layed out in the Zeplin design. Each cell in the TableViewController has either a section label for the "Dining Halls" and "Retail Dining" sections or a specific dining option. Each dining option has its own permanant cell because the dining options offered on campus don't often change. Most of the design elements simply followed the Zeplin format, as that was suggested in the assignment.
+
+# Functionality
+
+For the app, I implemented as many of the requirements as I was able to in the timeframe that I worked on this project. With this in mind, I implemented all of the required functionality in parts I, II, and III of the assignent with the exceptions of the "OPEN" and "CLOSED" labels for each dining option. I Then implemented the progress view of Part IV for my web browser.
+
+# Implementation
+
+To implement my app, I used the viewDidLoad method in HomeViewController to call methods to pull information from the JSON file and use that information to set the UI elements accordingly. I then used IBActions for the button in each table view cell to trigger segues to the WebViewController and a NavigationController to allow for navigation from the web screen back to the home screen.
