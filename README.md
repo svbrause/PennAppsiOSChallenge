@@ -1,6 +1,6 @@
 # PennAppsiOSChallenge
 
-In designing this app, I intentinally implemented each detail with ideas in mind about how to create an optimal finished product. Below are descriptions of different aspects of my design process along with reasons for making the decisions I made.
+In designing this app, I implemented each detail with ideas in mind about how to create an optimal finished product. Below are descriptions of different aspects of my design process along with reasons for making the decisions I made.
 
 ## File Layout
 
@@ -15,11 +15,11 @@ This structure allows for the different features of the app to be developed in d
 
 ## Storyboard Design
 
-I decided to use a storyboard to design my app because that is what I am most familiar with. In my storyboard, I used a TableViewController as the main screen on my app because I liked how it allowed for automatic scrolling and layed out the different dining options nicely and similarly to how they are layed out in the Zeplin design. Each cell in the TableViewController has either a section label for the "Dining Halls" and "Retail Dining" sections or a specific dining option. Each dining option has its own permanant cell because the dining options offered on campus don't often change. Most of the design elements simply followed the Zeplin format, as that was suggested in the assignment.
+I decided to use a storyboard to design my app because that is what I am most familiar with. In my storyboard, I used a TableViewController as the main screen on my app because I liked how it allowed for automatic scrolling and laid out the different dining options nicely and similarly to how they are laid out in the Zeplin design. Each cell in the TableViewController has either a section label for the "Dining Halls" and "Retail Dining" sections or a specific dining option. Each dining option has a permanent cell because the dining options offered on campus don't often change. Most of the design elements simply followed the Zeplin format, as that was suggested in the assignment.
 
 ## Functionality
 
-For the app, I implemented as many of the requirements as I was able to in the timeframe that I worked on this project. With this in mind, I implemented all of the required functionality in parts I, II, and III of the assignent with the exceptions of the "OPEN" and "CLOSED" labels for each dining option. I then implemented the progress view of Part IV for my web browser.
+For the app, I implemented as many of the requirements as I was able to in the timeframe that I worked on this project. With this in mind, I implemented all of the required functionality in parts I, II, and III of the assignment with the exceptions of the "OPEN" and "CLOSED" labels for each dining option. I then implemented the progress view of Part IV for my web browser.
 
 ## Implementation
 
