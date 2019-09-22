@@ -12,7 +12,7 @@ I decided to use a storyboard to design my app because that is what I am most fa
 
 # Functionality
 
-For the app, I implemented as many of the requirements as I was able to in the timeframe that I worked on this project. With this in mind, I implemented all of the required functionality in parts I, II, and III of the assignent with the exceptions of the "OPEN" and "CLOSED" labels for each dining option. I Then implemented the progress view of Part IV for my web browser.
+For the app, I implemented as many of the requirements as I was able to in the timeframe that I worked on this project. With this in mind, I implemented all of the required functionality in parts I, II, and III of the assignent with the exceptions of the "OPEN" and "CLOSED" labels for each dining option. I then implemented the progress view of Part IV for my web browser.
 
 # Implementation
 
