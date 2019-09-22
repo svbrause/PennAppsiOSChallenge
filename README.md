@@ -1,6 +1,6 @@
 # PennAppsiOSChallenge
 
-Each function of the app was designed with specific needs in mind.
+In designing this app, I intentinally implemented each detail with ideas in mind about how to create an optimal finished product. Below are descriptions of different aspects of my design process along with reasons for making the decisions I made.
 
 # File Layout
 
